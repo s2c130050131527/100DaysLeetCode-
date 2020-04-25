@@ -8,7 +8,7 @@
       "name": "g++.exe - Build and debug active file",
       "type": "cppdbg",
       "request": "launch",
-      "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+      "program": "${fileDirname}\\runtime\\${fileBasenameNoExtension}.exe",
       "args": [],
       "targetArchitecture": "x86_64",
       "stopAtEntry": false,
